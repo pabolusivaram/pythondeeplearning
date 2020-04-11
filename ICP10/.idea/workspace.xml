@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a0873f7-ef45-43ff-9b45-87ca11e195df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ICP10$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1572671388038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ICP10$sentiment_analysis__1_.coverage" NAME="sentiment_analysis (1) Coverage Results" MODIFIED="1572655811608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ICP10$sentiment_analysis.coverage" NAME="sentiment_analysis Coverage Results" MODIFIED="1572654096528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/DeepLearning_Lesson3 2" />
+    <SUITE FILE_PATH="coverage/ICP10$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1572672440446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ICP10$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1572671254346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ICP10$bonus1.coverage" NAME="bonus1 Coverage Results" MODIFIED="1572672760816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ICP10$bonus3.coverage" NAME="bonus3 Coverage Results" MODIFIED="1572650595882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectId" id="1aNHbcxxEgM1PF53X2G0Ge2ZuFz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.task3">
+    <configuration name="bonus1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentiment_analysis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentiment_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task3" />
+        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.sentiment_analysis (1)" />
+        <item itemvalue="Python.bonus1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a0873f7-ef45-43ff-9b45-87ca11e195df" name="Default Changelist" comment="" />
+      <created>1572569237732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572569237732</updated>
+      <workItem from="1572569240178" duration="12739000" />
+      <workItem from="1572671241596" duration="2246000" />
+      <workItem from="1573610986418" duration="36000" />
+      <workItem from="1573789560062" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15604000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1347" height="191" key="GridCell.Tab.0.bottom" timestamp="1586574780236">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="43" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1586572656035" />
+    <state width="1347" height="234" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1586570506347" />
+    <state width="1347" height="191" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1586574780236" />
+    <state width="1347" height="191" key="GridCell.Tab.0.center" timestamp="1586574780234">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="43" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1586572656034" />
+    <state width="1347" height="234" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1586570506346" />
+    <state width="1347" height="191" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1586574780234" />
+    <state width="1347" height="191" key="GridCell.Tab.0.left" timestamp="1586574780233">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="43" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1586572656033" />
+    <state width="1347" height="234" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1586570506346" />
+    <state width="1347" height="191" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1586574780233" />
+    <state width="1347" height="191" key="GridCell.Tab.0.right" timestamp="1586574780235">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="43" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1586572656035" />
+    <state width="1347" height="234" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1586570506347" />
+    <state width="1347" height="191" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1586574780235" />
+    <state x="243" y="100" key="SettingsEditor" timestamp="1586569233335">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="243" y="100" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1586569233335" />
+    <state x="431" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1586574226876">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="427" y="294" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1586569214409" />
+    <state x="431" y="294" key="com.intellij.ide.util.TipDialog/54.23.1386.877@54.23.1386.877" timestamp="1586574226876" />
+  </component>
+</project>
