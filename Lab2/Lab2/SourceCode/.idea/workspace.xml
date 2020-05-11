@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1490de48-06a6-453e-920d-22b946652e13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SourceCode$Image_classification.coverage" NAME="Image_classification Coverage Results" MODIFIED="1575785796595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SourceCode$Linear_Regression.coverage" NAME="Linear_Regression Coverage Results" MODIFIED="1575782340157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SourceCode$Logistic_Regression.coverage" NAME="Logistic_Regression Coverage Results" MODIFIED="1575784358278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectId" id="1bYLTnztQLYknE4aZJyeptBk4J6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Logistic_Regression">
+    <configuration name="Image_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SourceCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linear_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SourceCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linear_Regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Logistic_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SourceCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic_Regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task5(LSTM)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SourceCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task5(LSTM).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SourceCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Logistic_Regression" />
+        <item itemvalue="Python.Linear_Regression" />
+        <item itemvalue="Python.Image_classification" />
+        <item itemvalue="Python.Task7" />
+        <item itemvalue="Python.Task5(LSTM)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1490de48-06a6-453e-920d-22b946652e13" name="Default Changelist" comment="" />
+      <created>1575781491492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575781491492</updated>
+      <workItem from="1575781492752" duration="4386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4386000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1347" height="332" key="GridCell.Tab.0.bottom" timestamp="1589084544583">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="119" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1588827499885" />
+    <state width="1347" height="119" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1588866546468" />
+    <state width="1347" height="332" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1589084431214" />
+    <state width="1347" height="2" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1589081395126" />
+    <state width="1347" height="332" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1589084544583" />
+    <state width="1347" height="332" key="GridCell.Tab.0.center" timestamp="1589084544582">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="119" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1588827499884" />
+    <state width="1347" height="119" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1588866546466" />
+    <state width="1347" height="332" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1589084431213" />
+    <state width="1347" height="2" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1589081395125" />
+    <state width="1347" height="332" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1589084544582" />
+    <state width="1347" height="332" key="GridCell.Tab.0.left" timestamp="1589084544581">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="119" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1588827499884" />
+    <state width="1347" height="119" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1588866546465" />
+    <state width="1347" height="332" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1589084431212" />
+    <state width="1347" height="2" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1589081395125" />
+    <state width="1347" height="332" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1589084544581" />
+    <state width="1347" height="332" key="GridCell.Tab.0.right" timestamp="1589084544582">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state width="1347" height="119" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1588827499885" />
+    <state width="1347" height="119" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1588866546467" />
+    <state width="1347" height="332" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1589084431213" />
+    <state width="1347" height="2" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1589081395126" />
+    <state width="1347" height="332" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1589084544582" />
+    <state x="250" y="100" key="SettingsEditor" timestamp="1589156167685">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="243" y="100" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1588804124773" />
+    <state x="250" y="100" key="SettingsEditor/50.23.1390.877@50.23.1390.877" timestamp="1589156167685" />
+    <state x="408" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589072857984">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="408" y="296" key="com.intellij.ide.util.TipDialog/54.23.1386.877@54.23.1386.877" timestamp="1589072857984" />
+  </component>
+</project>
